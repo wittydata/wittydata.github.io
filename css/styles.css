@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  align-items: center;
+  background: linear-gradient(-165deg, #a987ff 0%, #82b2fc 61%, #3af9f2 100%);
+  display: flex;
+  justify-content: center;
+}
+
+.cover {
+  color: #fefefe;
+  text-align: center;
+}
+
+.description {
+  font-size: 1.5em;
+}
+
+.title {
+  font-size: 5em;
+}
